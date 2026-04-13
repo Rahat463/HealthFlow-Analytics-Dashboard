@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Generated output (reproducible via run_all.py)
+output/
+
+# Unused Synthea files (we only need 5 CSVs)
+synthea_raw/allergies.csv
+synthea_raw/careplans.csv
+synthea_raw/claims.csv
+synthea_raw/claims_transactions.csv
+synthea_raw/devices.csv
+synthea_raw/imaging_studies.csv
+synthea_raw/immunizations.csv
+synthea_raw/observations.csv
+synthea_raw/organizations.csv
+synthea_raw/payer_transitions.csv
+synthea_raw/payers.csv
+synthea_raw/procedures.csv
+synthea_raw/supplies.csv
+synthea_data.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
