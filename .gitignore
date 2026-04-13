@@ -24,6 +24,10 @@ synthea_raw/procedures.csv
 synthea_raw/supplies.csv
 synthea_data.zip
 
+# Personal guides (local only)
+EXCEL_POWERBI_GUIDE.md
+PROJECT_GUIDE.md
+
 # IDE
 .vscode/
 .idea/
